@@ -10,7 +10,6 @@ function App() {
   const [notesSubmitted, setNotesSubmitted] = useState(false)
   const [setupComplete, setSetupComplete] = useState(false)
   const [studyTime, setStudyTime] = useState(0)
-  const blockedWebsites = ['example.com', 'anotherexample.com'] // Define blockedWebsites
 
   const handleSetupComplete = (time) => {
     setStudyTime(time)

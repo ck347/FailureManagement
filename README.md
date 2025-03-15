@@ -1,31 +1,28 @@
 # Failure Management
 
 ## Overview
-Failure Management is a Vue.js Single Page Application (SPA) designed to help students overcome procrastination and focus on studying. It provides tools for organizing notes, scheduling study sessions, tracking confidence levels, and generating AI-powered quizzes.
+Failure Management is a React Single Page Application (SPA) designed to help students overcome procrastination and focus on studying. It provides tools for organizing notes, scheduling study sessions and generating AI-powered quizzes.
 
 ## Features
-- **Notes Drop-Off**: Upload or paste notes and generate quiz questions.
-- **Subject Confidence Tracker**: Rate subjects and identify weak areas.
-- **Study Time Scheduler**: Allocate time with a Pomodoro-based AI planner.
-- **Website Blacklist**: Block distracting websites.
+- **Notes Drop-Off**: Paste notes and generate quiz questions.
 - **Timer**: Track study sessions and breaks.
 - **Quiz Generator**: AI-powered quizzes based on study material.
 
 ## Tech Stack
-- **Vue 3** (with Vue Router)
 - **CSS** (for styling)
 - **Vite** (for fast development)
 - **AI API** (for quiz generation)
+- **React**
 
 ## Installation
 1. Clone the repository:
    ```
-   git clone https://github.com/ck347/failure-management
+   git clone https://github.com/ck347/FailureManagement
    ```
    
 2. Navigate to the project directory:
    ```
-   cd failure-management
+   cd FailureManagement
    ```
 3. Install the dependencies:
    ```
