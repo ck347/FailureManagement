@@ -1,12 +1,34 @@
-# React + Vite
+# Failure Management
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
+Failure Management is a Vue.js Single Page Application (SPA) designed to help students overcome procrastination and focus on studying. It provides tools for organizing notes, scheduling study sessions, tracking confidence levels, and generating AI-powered quizzes.
 
-Currently, two official plugins are available:
+## Features
+- **Notes Drop-Off**: Upload or paste notes and generate quiz questions.
+- **Subject Confidence Tracker**: Rate subjects and identify weak areas.
+- **Study Time Scheduler**: Allocate time with a Pomodoro-based AI planner.
+- **Website Blacklist**: Block distracting websites.
+- **Timer**: Track study sessions and breaks.
+- **Quiz Generator**: AI-powered quizzes based on study material.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tech Stack
+- **Vue 3** (with Vue Router)
+- **Tailwind CSS** (for styling)
+- **Pinia / Vuex** (for state management, if needed)
+- **Vite** (for fast development)
+- **AI API** (for quiz generation)
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Installation
+1. Clone the repository:
+   ```
+   git clone https://github.com/ck347/failure-management
+   ```
+   
+2. Navigate to the project directory:
+   ```
+   cd failure-management
+   ```
+3. Install the dependencies:
+   ```
+   npm install
+   ```
