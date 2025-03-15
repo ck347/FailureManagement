@@ -5,9 +5,7 @@ Failure Management is a Vue.js Single Page Application (SPA) designed to help st
 
 ## Features
 - **Notes Drop-Off**: Upload or paste notes and generate quiz questions.
-- **Subject Confidence Tracker**: Rate subjects and identify weak areas.
 - **Study Time Scheduler**: Allocate time with a Pomodoro-based AI planner.
-- **Website Blacklist**: Block distracting websites.
 - **Timer**: Track study sessions and breaks.
 - **Quiz Generator**: AI-powered quizzes based on study material.
 
