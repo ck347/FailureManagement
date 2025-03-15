@@ -13,8 +13,7 @@ Failure Management is a Vue.js Single Page Application (SPA) designed to help st
 
 ## Tech Stack
 - **Vue 3** (with Vue Router)
-- **Tailwind CSS** (for styling)
-- **Pinia / Vuex** (for state management, if needed)
+- **CSS** (for styling)
 - **Vite** (for fast development)
 - **AI API** (for quiz generation)
 
